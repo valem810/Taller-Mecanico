@@ -4,10 +4,8 @@ Nombre de los botones, etiquetas y campos de texto
 
 Sintaxis: 
 1. lbl, txt, btn
-2. _
-3. Inicial de la pastaña en mayuscula L, U, C, V, R, P.
-4. _
-5. Nombre con mayuscula al inicio
+2. Inicial de la pastaña en mayuscula L, U, C, V, R, P.
+3. Nombre con mayuscula al inicio
 
 Ejemplo: 
 
@@ -110,7 +108,7 @@ REPARACIONES
         cb_R_IdVehiculo
         cb_R_IdPieza
         
-Piezas
+PIEZAS
 
     Botones
         btn_P_Buscar
